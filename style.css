@@ -123,6 +123,7 @@ a {
 .section{
     background: var(--very-pale-blue);  
     text-align: center;
+    
 }
 
 .section_container{
@@ -273,16 +274,17 @@ a {
         width: 100%;
     }
 
-     form{
-        margin-left: 10px;
-        margin-right: 10px;
-
-     }
     
 
 }
+
+#ebook{
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
 #team{
-    margin-top: 200px;
+   
+    margin-bottom: 1em;
 }
 #submit{
     background-color: var(--pink);
@@ -294,5 +296,8 @@ form{
     font-family: var(--font-sans);
     max-width: 400px;
     margin: auto;
-
+}
+.section_form{
+    margin-bottom: 15rem;
+    
 }
