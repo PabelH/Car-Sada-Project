@@ -43,7 +43,7 @@ a {
     overflow: hidden;
 }
 
-.hero{
+.caro{
     --padding-container: 80px 0 100px;
     position: relative;
     --wave: url(../images/bg-section-top-mobile-1.svg);
@@ -233,7 +233,7 @@ a {
         font-size:4rem;
     }
 
-    .hero{
+    .caro{
         --wave: url(../images/bg-section-top-desktop-1.svg);
     }
 
