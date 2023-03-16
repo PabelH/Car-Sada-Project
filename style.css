@@ -296,7 +296,7 @@ width: 100%;
 #submit{
     background-color: var(--pink);
     border-color:var(--pink) ;
-    margin: 10px;
+
   }
 form{
     display: block;
